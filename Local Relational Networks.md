@@ -1,4 +1,4 @@
-局部相关网络
+<center>局部相关网络</center>
 ============
 <div align=center><img src="https://github.com/fate-fight/paper/blob/master/images/full_lr.png"/></div><br/>
 &nbsp&nbsp&nbsp&nbsp局部相关网络可以对输入的特征图进行处理，使用注意力机制将每个像素点的周围信息添加到该像素点后，然后输出一个处理后的输出，输出的特征图的每个像素点都包含了周围像素点的信息。  <br/>
