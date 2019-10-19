@@ -5,4 +5,4 @@
 <div align=center><img src="https://github.com/fate-fight/paper/blob/master/images/transformer.png"></div>
 
 * ## Encoder部分
-   Encoder的基本单元主要是Multi-Head Attention和feed-forward，中间存在残差连接以及层归一化。 待续。。。 10.14记
+   Encoder的基本单元主要是Multi-Head Attention和feed-forward，中间存在残差连接以及层归一化。 待续。。。 10.14记 
