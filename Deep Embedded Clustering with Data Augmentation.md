@@ -3,4 +3,4 @@
 由于深度嵌入聚类能更好的提取数据的特征，能够更好的对数据进行表示，因此先对数据使用神经网络进行特征提取后进行聚类的效果已经大大超过了传统的聚类方法。<br/>  
 本文在原来深度嵌入聚类的基础上使用数据增强来训练网络，增加了训练集，可以更好的训练模型。<br/>
 
-<div align=center><img width=100 height=100 src="https://github.com/fate-fight/paper/blob/master/images/DECDA.png"></div>
+<div align=center><img height=200 src="https://github.com/fate-fight/paper/blob/master/images/DECDA.png"></div>
